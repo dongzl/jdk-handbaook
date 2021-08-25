@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jdk-hand-book.iml" filepath="$PROJECT_DIR$/jdk-hand-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk-handbook.iml" filepath="$PROJECT_DIR$/jdk-handbook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-code-atguigu.iml" filepath="$PROJECT_DIR$/netty-code-atguigu.iml" />
+    </modules>
+  </component>
+</project>
